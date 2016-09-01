@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hiker\'s Watch</string>
+    <string name="latitude">Latitude</string>
+    <string name="defaultNum">00</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="defaultDistance">00m</string>
+    <string name="speed">Speed</string>
+    <string name="defaultSpeed">00m/s</string>
+    <string name="hiker_apos_s_watch">Hiker\'s Watch</string>
+    <string name="bearing">Bearing</string>
+    <string name="addressNotAvailable">Address: not available</string>
+    <string name="longitude">Longitude</string>
+</resources>
